@@ -1,0 +1,13 @@
+.navigation {
+  height: 100px;
+  background-color: #71ffe2;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  a{
+    text-decoration: none;
+    color: #891883;
+    font-weight: bold;
+    font-size: 30px;
+  }
+}
